@@ -1,13 +1,13 @@
 {
   "name": "xenious-cordova-plugin-app-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova plugin to return the version number of the current app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XeniousSoftware/cordova-plugin-app-version.git#npm"
+    "url": "git+https://github.com/XeniousSoftware/cordova-plugin-app-version.git"
   },
   "keywords": [
     "cordova",
