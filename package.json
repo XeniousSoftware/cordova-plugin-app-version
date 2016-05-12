@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-app-version",
+  "name": "xenious-cordova-plugin-app-version",
   "version": "0.1.8",
   "description": "Cordova plugin to return the version number of the current app",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteoctober/cordova-plugin-app-version.git"
+    "url": "git+https://github.com/XeniousSoftware/cordova-plugin-app-version.git"
   },
   "keywords": [
     "cordova",
@@ -20,7 +20,7 @@
   "author": "whiteoctober",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whiteoctober/cordova-plugin-app-version/issues"
+    "url": "https://github.com/XeniousSoftware/cordova-plugin-app-version/issues"
   },
-  "homepage": "https://github.com/whiteoctober/cordova-plugin-app-version#readme"
+  "homepage": "https://github.com/XeniousSoftware/cordova-plugin-app-version#readme"
 }
